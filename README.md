@@ -2,16 +2,16 @@
 I take whatever's coming.
 
 ## Enjoys
-Portable software
-Opensource
-Un\*x
-Hacking
-Reverse engineering
-Source engine
+- Portable software
+- Opensource
+- Un\*x
+- Hacking
+- Reverse engineering
+- Source engine
 
 ## Hates
-Non-portable software
-Closed source software
+- Non-portable software
+- Closed source software
 
 ## TODO
 - [Web based map making tools for Tanki Online]()
